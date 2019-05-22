@@ -9,3 +9,14 @@
 **Link(s) to stuffs I learned**
 1. [React Docs -- Hooks](https://reactjs.org/docs/hooks-state.html)
 2. [Prongbang blog -- I found it easy to understand for Thais](https://prongbang.github.io/category/react)
+3. [Repository that I did some stuff](https://github.com/borbier/react-lab-stuffs)
+
+### Day 2: May 22, Wednesday
+
+**Today's Progress**: I've reviewed a bit further about React concepts such as Redux and a bit of inline-styling.(~60 mins)
+
+**Thoughts** Redux is a concept that I admitted that it is pretty hard for me to understand. I spent my time on understanding it mechanism and structure. I want to do some small project that use Redux or MobX.
+
+**Link(s) to stuffs I learned and what I did**
+1. [Repository that I did some stuff](https://github.com/borbier/react-lab-stuffs)
+2. [Styling React components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
