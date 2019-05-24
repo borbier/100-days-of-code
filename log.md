@@ -20,3 +20,9 @@
 **Link(s) to stuffs I learned and what I did**
 1. [Repository that I did some stuff](https://github.com/borbier/react-lab-stuffs)
 2. [Styling React components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
+
+### Day 3: May 24, Friday
+
+**Today's Progress**: I've practiced some coding problems in LeetCode(~60 mins) and also getting started in studying some database from Stanford lecture that I've found in youtube.(~30 mins)
+
+**Thoughts** I'm thinking of reviewing concepts about algorithms for a while. I also have implemented some of backend that required database modeling and querying but I haven't studied about theory yet. It is good day for starting in reviewing and studying it deeper.
