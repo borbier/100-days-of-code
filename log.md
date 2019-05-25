@@ -26,3 +26,12 @@
 **Today's Progress**: I've practiced some coding problems in LeetCode(~60 mins) and also getting started in studying some database from Stanford lecture that I've found in youtube.(~30 mins)
 
 **Thoughts** I'm thinking of reviewing concepts about algorithms for a while. I also have implemented some of backend that required database modeling and querying but I haven't studied about theory yet. It is good day for starting in reviewing and studying it deeper.
+
+### Day 4: May 25, Saturday
+
+**Today's Progress**: I've tried using Typescript and also applied with Express (~80 mins) and do some problems in LeetCode.(~40 mins)
+
+**Thoughts** I found really less resources about using Typescript in Node.js or some modules e.g. Sequelize. I'm thinking of applying with it.
+
+**Link(s) to stuffs I learned and what I did**
+1. [Repository that I did some stuff]()
