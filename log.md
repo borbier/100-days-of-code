@@ -35,3 +35,12 @@
 
 **Link(s) to stuffs I learned and what I did**
 1. [Repository that I did some stuff]()
+
+### Day 4: May 28, Tuesday
+
+**Today's Progress**: I've did some cryptocurrency watch application with Flutter.(~90 mins)
+
+**Thoughts** I'm pretty appreciated with that. :)
+
+**Link(s) to stuffs I learned and what I did**
+1. [Repository that I did some stuff](https://github.com/borbier/flutter-crypto)
