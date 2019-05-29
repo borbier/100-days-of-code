@@ -36,7 +36,7 @@
 **Link(s) to stuffs I learned and what I did**
 1. [Repository that I did some stuff]()
 
-### Day 4: May 28, Tuesday
+### Day 5: May 28, Tuesday
 
 **Today's Progress**: I've did some cryptocurrency watch application with Flutter.(~90 mins)
 
@@ -44,3 +44,10 @@
 
 **Link(s) to stuffs I learned and what I did**
 1. [Repository that I did some stuff](https://github.com/borbier/flutter-crypto)
+
+
+### Day 6: May 29, Wednesday
+
+**Today's Progress**: I studied web scraping with Node.js and cheerio. I also tried to do some Thai stock news aggragator from scraping website.(~90 mins)
+
+**Thoughts** I'm pretty appreciated with that, but still a lot of progress needs to works out.
