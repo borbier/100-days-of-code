@@ -51,3 +51,7 @@
 **Today's Progress**: I studied web scraping with Node.js and cheerio. I also tried to do some Thai stock news aggragator from scraping website.(~90 mins)
 
 **Thoughts** I'm pretty appreciated with that, but still a lot of progress needs to works out.
+
+### Day 7: May 31, Friday
+
+**Today's Progress**: I studied about Graph database. I did some of querying and creating database with Neo3J.(~60mins)
