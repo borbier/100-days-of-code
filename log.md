@@ -55,3 +55,20 @@
 ### Day 7: May 31, Friday
 
 **Today's Progress**: I studied about Graph database. I did some of querying and creating database with Neo3J.(~60mins)
+
+
+### Day 8: June 1, Wednesday
+
+**Today's Progress**: I did some demo in Hackitect.(~5 hrs)
+
+**Thoughts** It's first demo in hackathon. I've made I bit quirky but I got the vibes about building prototypes for hackathon.
+
+
+### Day 9: June 2, Wednesday
+
+**Today's Progress**: I finished a demo in Hackitect.(~3.5 hrs)
+
+**Thoughts** It's first demo in hackathon. I've made I bit quirky but I got the vibes about building prototypes for hackathon and it is done.
+
+**Link(s) to stuffs I learned and what I did**
+1. [Repository that I did some stuff](https://github.com/borbier/graphstagram)
