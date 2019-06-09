@@ -72,3 +72,9 @@
 
 **Link(s) to stuffs I learned and what I did**
 1. [Repository that I did some stuff](https://github.com/borbier/graphstagram)
+
+### Day 10: June 9, Sunday
+
+**Today's Progress**: I started building some sudoku with React during Skooldio course(2.5 hrs)
+
+**Thoughts** I understanded concepts in React e.g. State & Props, Hooks.
