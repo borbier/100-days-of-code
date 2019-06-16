@@ -78,3 +78,10 @@
 **Today's Progress**: I started building some sudoku with React during Skooldio course(2.5 hrs)
 
 **Thoughts** I understanded concepts in React e.g. State & Props, Hooks.
+
+### Day 11: June 16, Saturday
+
+**Today's Progress**: I tried implementing API with Typescript.(3.5hrs) I used some modules like TypeORM and jsonwebtoken with Express as main framework.
+
+**Link(s) to stuffs I learned and what I did**
+1. [Repository that I did some stuff](https://github.com/borbier/typeorm-tryout)
