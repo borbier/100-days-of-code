@@ -79,9 +79,16 @@
 
 **Thoughts** I understanded concepts in React e.g. State & Props, Hooks.
 
-### Day 11: June 16, Saturday
+### Day 11: June 16, Sunday
 
 **Today's Progress**: I tried implementing API with Typescript.(3.5hrs) I used some modules like TypeORM and jsonwebtoken with Express as main framework.
 
 **Link(s) to stuffs I learned and what I did**
 1. [Repository that I did some stuff](https://github.com/borbier/typeorm-tryout)
+
+### Day 12: June 16, Monday
+
+**Today's Progress**: I did Machine Learning Training homework (Data Preparation and classification by K-Mean clustering)
+
+**Link(s) to stuffs I learned and what I did**
+1. [My homework](https://github.com/borbier/ml-training)
