@@ -92,3 +92,12 @@
 
 **Link(s) to stuffs I learned and what I did**
 1. [My homework](https://github.com/borbier/ml-training)
+
+### Day 13 & 14: June 24-25
+
+**Today's Progress**: I built some API with Hapi.js & Mongoose since it is used for works. I also learned some of documentation with Swagger and building Node.js app with Gulp.js.
+
+**Thoughts** Technically first work from outside that I accepted. I familiar with some of the part in stack such as Mongoose. Still, got a lot of things to study.
+
+**Link(s) to stuffs I learned and what I did**
+1. [What I built](https://github.com/borbier/tryout-hapi)
