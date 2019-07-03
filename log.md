@@ -101,3 +101,7 @@
 
 **Link(s) to stuffs I learned and what I did**
 1. [What I built](https://github.com/borbier/tryout-hapi)
+
+### Day 15 & 16: July 1-2
+
+**Today's Progress**: I implemented location data to database by using geoJson. I also learned how to use AWS S3 for file storage.
