@@ -105,3 +105,7 @@
 ### Day 15 & 16: July 1-2
 
 **Today's Progress**: I implemented location data to database by using geoJson. I also learned how to use AWS S3 for file storage.
+
+### Day 17: July 8
+
+**Today's Progress**: Finally started to study some Golang, I just got some basic concept of Golang e.g. variables, conditions, loop and functions.
